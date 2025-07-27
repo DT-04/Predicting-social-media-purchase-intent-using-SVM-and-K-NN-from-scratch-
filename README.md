@@ -1,0 +1,1 @@
+# Predicting-social-media-purchase-intent-using-SVM-and-K-NN-from-scratch-
